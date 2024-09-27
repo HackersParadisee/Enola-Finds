@@ -48,12 +48,12 @@ Ensure your system is running a Debian-based Linux distribution (e.g., Ubuntu). 
 
 2. Make the installation script executable:
     \`\`\`bash
-    chmod +x enola-finds.sh
+    chmod +x Enola-Finds.sh
     \`\`\`
 
 3. Run the script to install the required tools:
     \`\`\`bash
-    ./enola-finds.sh
+    ./Enola-Finds.sh
     \`\`\`
 
 Enola-Finds will automatically install all the necessary dependencies, including `nmap`, `whois`, `dnsenum`, `sublist3r`, and more. 
