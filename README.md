@@ -42,7 +42,7 @@ Ensure your system is running a Debian-based Linux distribution (e.g., Ubuntu). 
 ### Steps
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/HackersParadisee/Enola-Finds.git
+    git clone https://github.com/HackersParadisee/Enola-Finds.sh
     cd Enola-Finds
     \`\`\`
 
